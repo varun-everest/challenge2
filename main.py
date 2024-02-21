@@ -5,3 +5,6 @@ h = int(input())
 
 def add(a,b):
 	return a+b
+def div(val):
+	return val//2
+
